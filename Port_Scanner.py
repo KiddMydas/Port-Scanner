@@ -1,3 +1,6 @@
+# A simple port scanner made by Mydas
+
+
 import socket
 import threading
 import logging
